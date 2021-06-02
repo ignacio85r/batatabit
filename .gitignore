@@ -1,0 +1,10 @@
+# Git Ignore #
+
+#Carpetas
+/Assets
+
+#Imagenes
+*.webp
+*.svg
+*.jpg
+*.png
